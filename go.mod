@@ -1,4 +1,4 @@
-module github.com/jeffcail/cgncode
+module github.com/mazezen/cgncode
 
 go 1.22.0
 

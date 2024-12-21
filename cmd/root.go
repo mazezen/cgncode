@@ -4,9 +4,9 @@ Copyright © 2024 NAME HERE <EMAIL ADDRESS>
 package cmd
 
 import (
-	"github.com/jeffcail/cgncode/dt"
-	"github.com/jeffcail/cgncode/tools"
-	"github.com/jeffcail/cgncode/vm"
+	"github.com/mazezen/cgncode/dt"
+	"github.com/mazezen/cgncode/tools"
+	"github.com/mazezen/cgncode/vm"
 	"os"
 
 	"github.com/spf13/cobra"

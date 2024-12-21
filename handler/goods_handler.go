@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"github.com/jeffcail/cgncode/models"
-	"github.com/jeffcail/cgncode/service"
 	"github.com/labstack/echo/v4"
+	"github.com/mazezen/cgncode/models"
+	"github.com/mazezen/cgncode/service"
 	"net/http"
 )
 

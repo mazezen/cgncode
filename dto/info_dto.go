@@ -2,8 +2,8 @@ package dto
 
 import (
 	"errors"
-	"github.com/jeffcail/cgncode/models"
-	"github.com/jeffcail/cgncode/vm"
+	"github.com/mazezen/cgncode/models"
+	"github.com/mazezen/cgncode/vm"
 )
 
 type InfoDto struct{}

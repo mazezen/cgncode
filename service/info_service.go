@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/jeffcail/cgncode/dto"
-	"github.com/jeffcail/cgncode/models"
+	"github.com/mazezen/cgncode/dto"
+	"github.com/mazezen/cgncode/models"
 )
 
 type InfoService struct{}

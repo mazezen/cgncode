@@ -1,7 +1,7 @@
 package tools
 
 import (
-	"github.com/jeffcail/cgncode/dt"
+	"github.com/mazezen/cgncode/dt"
 	"go/ast"
 	"go/parser"
 	"go/token"

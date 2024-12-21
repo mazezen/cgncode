@@ -6,8 +6,8 @@ package cmd
 import (
 	"errors"
 	"fmt"
-	"github.com/jeffcail/cgncode/do"
-	"github.com/jeffcail/cgncode/dt"
+	"github.com/mazezen/cgncode/do"
+	"github.com/mazezen/cgncode/dt"
 	"log"
 	"os"
 	"strings"
